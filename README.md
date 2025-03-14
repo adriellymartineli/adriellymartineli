@@ -9,5 +9,5 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnol
 - **Desenvolvimento:** Microsoft Visual Studio, Visual Studio Code
 
 ### 📫 Contato
-
+- **LinkedIn:** [Adrielly](https://www.linkedin.com/in/adrielly-martineli/)
 - **E-mail:** adriellymartinelli89@gmail.com  
