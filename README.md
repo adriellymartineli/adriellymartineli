@@ -6,7 +6,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnol
 - **Linguagens:** Python, SQL, VBA, VBScript, Batch  
 - **Ferramentas e Tecnologias:** Power BI, Excel, Access
 - **Banco de Dados:** SQL Server
-- **Desenvolvimento:** .NET, Visual Studio Code
+- **Desenvolvimento:** Microsoft Visual Studio, Visual Studio Code
 
 ### 📫 Contato
 
